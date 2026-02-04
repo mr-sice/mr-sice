@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Salvatore, in art MR.SICE. 
+I'm a Digital Hybrid Artist and Creative Director.
+
+
+I refuse to be boxed into a single discipline. My work flows between capturing reality through photography and constructing it through 3D environments. With AI as a new creative tool, I'm expanding into motion and video, offering businesses complete visual ecosystems rather than isolated deliverables.
+
 <!--
 **mr-sice/mr-sice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
