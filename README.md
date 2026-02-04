@@ -25,7 +25,7 @@
 
 ---
 
-Fun Facts : 
+## Fun Facts : 
 
 * **Logic:** `if (drink.isAlcoholic) { return false; }`
 * **Energy Source:** Powered exclusively by [Coffee/Water], 0% alcohol required.
