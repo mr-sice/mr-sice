@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Salvatore, in art MR.SICE. 
+I'm Salvatore, in art # MR.SICE. 
 
 I'm a **Digital Hybrid Artist and Creative Director** that refuse to be boxed into a single discipline. 
 
