@@ -8,6 +8,8 @@ I specialize in the physics of light, whether I’m capturing it through a camer
 
 With AI as a new creative tools, I blend traditional media with cutting-edge AI workflows, offering businesses a complete visual ecosystems rather than isolated deliverables.
 
+---
+
 ### What I Do
 * **Photography:** Specialized in **Action Sport**, **Interior Architecture**, and **Commercial** photography for brands of all sizes.
 * **3D & CGI:** Master of **PBR Texturing** and environment design for architecture, gaming, and commercials.
@@ -17,10 +19,11 @@ With AI as a new creative tools, I blend traditional media with cutting-edge AI 
 ---
 
 ### Tech Stack & Tools
-* **Visuals:** Adobe Creative Suite ( LR, PS, AI, AE,), DaVinci Resolve, Nuke,
-* **3D/CGI:** Unreal Engine / Blender / Substance Painter (PBR Workflow)
-* **AI:** ComfyUI 
-* **Output:** 2D/3D Animations, Explainer Videos, Architectural Visualizations
+* **Visuals:** Adobe Creative Suite ( LR, PS, AI, AE,), DaVinci Resolve, Nuke and others.
+* **3D/CGI:** Unreal Engine / Blender / Substance Designer/Painter (PBR Workflow)
+* **AI:** ComfyUI is a big part of my current pipeline and workflow
+
+---
 
 Fun Facts : 
 
