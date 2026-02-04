@@ -12,9 +12,9 @@ With AI as a new creative tool, I blend traditional media with cutting-edge AI w
 
 Fun Facts : 
 
-Logic: if (drink.isAlcoholic) { return false; }
-Energy Source: Powered exclusively by [Coffee/Water], 0% alcohol required.
-Bug Report: I haven't found a use case for alcohol in my OS yet.
+• Logic: if (drink.isAlcoholic) { return false; }
+• Energy Source: Powered exclusively by [Coffee/Water], 0% alcohol required.
+• Bug Report: I haven't found a use case for alcohol in my OS yet.
 
 
 <!--
