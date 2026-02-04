@@ -1,10 +1,19 @@
 ## Hi there 👋
 
 I'm Salvatore, in art MR.SICE. 
-I'm a Digital Hybrid Artist and Creative Director.
+I'm a **Digital Hybrid Artist and Creative Director** that refuse to be boxed into a single discipline. 
+
+I specialize in the physics of light, whether I’m capturing it through a camera lens or simulating it in a 3D engine.
+With AI as a new creative tool, I blend traditional media with cutting-edge AI workflows, offering businesses a complete visual ecosystems rather than isolated deliverables.
 
 
-I refuse to be boxed into a single discipline. My work flows between capturing reality through photography and constructing it through 3D environments. With AI as a new creative tool, I'm expanding into motion and video, offering businesses complete visual ecosystems rather than isolated deliverables.
+
+Fun Facts : 
+
+Logic: if (drink.isAlcoholic) { return false; }
+Energy Source: Powered exclusively by [Coffee/Water], 0% alcohol required.
+Bug Report: I haven't found a use case for alcohol in my OS yet.
+
 
 <!--
 **mr-sice/mr-sice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
