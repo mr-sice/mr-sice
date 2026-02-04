@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-I'm Salvatore, in art ## MR.SICE. 
+I'm Salvatore, in art **MR.SICE**. 
 
-I'm a **Digital Hybrid Artist and Creative Director** that refuse to be boxed into a single discipline. 
-
-I specialize in the physics of light, whether I’m capturing it through a camera lens or simulating it in a 3D engine.
+* I'm a **Digital Hybrid Artist and Creative Director** that refuse to be boxed into a single discipline. 
+* I specialize in the physics of light, whether I’m capturing it through a camera lens or simulating it in a 3D engine.
 
 With AI as a new creative tool, I blend traditional media with cutting-edge AI workflows, offering businesses a complete visual ecosystems rather than isolated deliverables.
 
